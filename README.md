@@ -1,7 +1,7 @@
 # GPTを用いた文章要約アプリ
 <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"><img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
 
-![使用方法](使用方法.gif)
+![使用方法](howtouse.gif)
 
 <br>
 
@@ -143,7 +143,7 @@ twoshot学習×refine法で要約を行うアプリ。（性能比較用）
 * pythonrouge.ipynb  
 要約した文章をROUGEを用いて評価するプログラム。
 
-* README.md, 使用方法.gif  
+* README.md, howtouse.gif  
 README用のファイル。
 * requirements.txt  
 使用している外部ライブラリを記入。アプリをデプロイする際に必要。
